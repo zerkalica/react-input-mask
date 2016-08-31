@@ -1,0 +1,39 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+author	package.json	/^  "author": "Nikita Lobachev <sanniassin@yandex.ru>",$/;"	f
+babel	package.json	/^    "babel": "^5.8.34",$/;"	f
+babelify	package.json	/^    "babelify": "^6.4.0",$/;"	f
+build	package.json	/^    "build": "babel InputElement.js -d build",$/;"	f
+console-polyfill	package.json	/^    "console-polyfill": "^0.2.2",$/;"	f
+createInput	tests/input-test.js	/^function createInput(component, cb) {$/;"	f
+description	package.json	/^  "description": "Masked input component for React",$/;"	f
+devDependencies	package.json	/^  "devDependencies": {$/;"	f
+homepage	package.json	/^  "homepage": "https:\/\/github.com\/sanniassin\/react-input-mask",$/;"	f
+jasmine-core	package.json	/^    "jasmine-core": "^2.3.4",$/;"	f
+karma	package.json	/^    "karma": "^0.13.15",$/;"	f
+karma-browserify	package.json	/^    "karma-browserify": "^4.4.0",$/;"	f
+karma-browserstack-launcher	package.json	/^    "karma-browserstack-launcher": "^0.1.7",$/;"	f
+karma-jasmine	package.json	/^    "karma-jasmine": "^0.3.6",$/;"	f
+karma-phantomjs-launcher	package.json	/^    "karma-phantomjs-launcher": "^0.2.1",$/;"	f
+keywords	package.json	/^  "keywords": [$/;"	f
+license	package.json	/^  "license": "MIT",$/;"	f
+main	package.json	/^  "main": "build\/InputElement.js",$/;"	f
+module.exports	karma.conf.js	/^}$/;"	f
+name	package.json	/^  "name": "react-input-mask",$/;"	f
+peerDependencies	package.json	/^  "peerDependencies": {$/;"	f
+phantomjs	package.json	/^    "phantomjs": "^1.9.18",$/;"	f
+prepublish	package.json	/^    "prepublish": "npm test && npm run build",$/;"	f
+react	package.json	/^    "react": ">=0.12.0"$/;"	f
+react	package.json	/^    "react": "^0.14.3",$/;"	f
+react-addons-test-utils	package.json	/^    "react-addons-test-utils": "^0.14.3",$/;"	f
+react-dom	package.json	/^    "react-dom": "^0.14.3"$/;"	f
+repository	package.json	/^  "repository": {$/;"	f
+scripts	package.json	/^  "scripts": {$/;"	f
+test	package.json	/^    "test": "karma start"$/;"	f
+type	package.json	/^    "type": "git",$/;"	f
+url	package.json	/^    "url": "https:\/\/github.com\/sanniassin\/react-input-mask.git"$/;"	f
+version	package.json	/^  "version": "0.5.10",$/;"	f
